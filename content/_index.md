@@ -18,4 +18,4 @@ Stop and read. I am here.
 - [effortcal](https://effortcal.com)
 - [fiesta](https://thefiesta.app)
 
-links: [x](x.com/geeparamind), [linkedin](https://www.linkedin.com/in/george-paragioudakis-1b42b61b2/)
+links: [x](https://x.com/geeparamind), [linkedin](https://www.linkedin.com/in/george-paragioudakis-1b42b61b2/)
