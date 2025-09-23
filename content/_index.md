@@ -8,8 +8,8 @@ Stop and read. I am here.
 
 ### things I have done
 
-- founding eng @ auctor (X25)
-- founding eng @ greenboard (W24)
+- founding eng @ auctor (YC X25)
+- founding eng @ greenboard (YC W24)
 - johns hopkins '24
 
 ### projects
