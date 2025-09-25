@@ -5,7 +5,11 @@ description = "We need a new kind of education system, one that ensures our expa
 tags = ["education"]
 +++
 
+<br>
+
 > Will the scale of our presence matter if all we export is emptiness?
+
+<br>
 
 Elon’s mission is to expand the scale and scope of human consciousness so that we can better understand the universe and our place in it.
 
