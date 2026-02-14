@@ -24,7 +24,7 @@ jobs:
           extended: true
 
       - name: Build Hugo site
-        run: hugo --minify
+        run: hugo --minify ${{ github.event_name == 'pull_request' && '--baseURL /' || '' }}
 
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3.0
