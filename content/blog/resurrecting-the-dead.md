@@ -5,6 +5,12 @@ description = "AI will eventually be able to recreate the consciousness of peopl
 tags = ["ai", "consciousness", "ethics"]
 +++
 
+If the technology to recreate someone's consciousness becomes possible, someone is going to do it. It doesn't matter how uncomfortable it makes us or how many ethical boundaries it crosses. That's how technology works. And if it exists, is the temptation to use it too much to resist? What if someone resurrects your parents without your consent? What if one day you receive a letter in the mail from your "mother"? Would you be able to resist not answering it?
+
+This post is a collection of small ideas around the implications of this technology existing. Some of them are fun, some of them are dark, but most of them are things you might not think about from the outset.
+
+### The appeal.
+
 People initially like the thought of being able to speak to their parents that have passed away. Just having a conversation with them would be nice. Hearing their voice again. Getting their advice on something you're going through. It sounds beautiful.
 
 But you want all the benefits without the consequences.
@@ -26,10 +32,6 @@ Then you are going to go through the process of loss all over again. And if they
 Imagine you resurrect your parent and their consciousness got put into a humanoid robot. You could wake up one day to your late father shoveling the snow outside. Usually you would tell him to get inside and that you can take care of it. But then he would probably be like "Absolutely not! I run on a battery so I have unlimited energy! You stay inside and rest."
 
 Imagine you recreate the consciousness of 10 different generations of a family and you can simulate conversations between them. Imagine witnessing a conversation between your child, your great grandfather, and your great great great great grandfather. If this technology ends up existing for several generations, that could be possible. Imagine a family gathering like Christmas or Thanksgiving but attended by people in your family that you never met.
-
-### If it's possible, someone is going to do it.
-
-And if it exists, is the temptation to use it too much to resist? What if someone resurrects your parents without your consent? What if one day you receive a letter in the mail from your "mother"? Would you be able to resist not answering it?
 
 ### You'll never fully heal.
 
