@@ -3,6 +3,7 @@ title = "Resurrecting The Dead"
 date = "2026-03-02"
 description = "AI will eventually be able to recreate the consciousness of people who have passed away. But the consequences of doing so might be far worse than the grief it aims to cure."
 tags = ["ai", "consciousness", "ethics"]
+hidden = true
 +++
 
 If the technology to recreate someone's consciousness becomes possible, someone is going to do it. It doesn't matter how uncomfortable it makes us or how many ethical boundaries it crosses. That's how technology works. And if it exists, is the temptation to use it too much to resist? What if someone resurrects your parents without your consent? What if one day you receive a letter in the mail from your "mother"? Would you be able to resist not answering it?
