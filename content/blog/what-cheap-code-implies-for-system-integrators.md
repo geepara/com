@@ -139,4 +139,4 @@ If system integrators can work this way, they need a way to make the process vis
 
 Cheap code by itself can feel chaotic. Customers need to understand what they are reviewing. Integrators need to control what is shared. Feedback needs to attach to the right artifact. Decisions need to be remembered. Iterations need to feel like progress, not randomness.
 
-That points to a new kind of implementation workflow.
+That is the product system integrators need now: a workflow where fast software changes become visible, collaborative, and trusted. It is what we are building at Auctor.
