@@ -1,6 +1,6 @@
 +++
 title = "Code Is Cheap"
-date = "2026-05-04"
+date = "2026-05-05"
 description = "AI has changed the cost of trying software changes. When generated code is cheap, software work can move from requests to attempted solutions."
 tags = ["software", "ai", "implementation"]
 +++
