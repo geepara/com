@@ -133,13 +133,15 @@
     border-radius: 3px;
     margin-block-start: 1em;
     margin-block-end: 1em;
-    overflow-x: auto;
+    overflow-x: visible;
   }
 
   pre {
     background: var(--code-background-color) !important;
     border-radius: 3px;
+    overflow-wrap: anywhere;
     padding: 12px;
+    white-space: pre-wrap;
   }
 
   pre code,
@@ -147,6 +149,7 @@
     background: var(--code-background-color) !important;
     color: var(--code-text-color) !important;
     display: block;
+    white-space: pre-wrap;
   }
 
   .highlight pre {
@@ -159,6 +162,13 @@
 
   .highlight code > span > span:first-child {
     color: var(--code-line-number-color) !important;
+  }
+
+  .highlight code > span > span:last-child {
+    flex: 1;
+    min-width: 0;
+    overflow-wrap: anywhere;
+    white-space: pre-wrap;
   }
 
   /* blog post list */
