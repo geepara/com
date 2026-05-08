@@ -5,7 +5,7 @@ description = "AI has changed the cost of trying software changes. When generate
 tags = ["software", "ai", "implementation"]
 +++
 
-When code is expensive, the goal is to avoid wrong attempts. When code is cheap, the goal is to make attempts easy to generate, easy to review, and easy to discard.
+> When code is expensive, the goal is to avoid wrong attempts. When code is cheap, the goal is to make attempts easy to generate, easy to review, and easy to discard.
 
 This is the first article in a two-part series.
 

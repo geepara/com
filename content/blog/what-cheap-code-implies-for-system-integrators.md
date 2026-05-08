@@ -5,7 +5,7 @@ description = "If code is cheap, system integrators can move delivery earlier an
 tags = ["software", "ai", "implementation", "system-integrators"]
 +++
 
-The fastest path to alignment is no longer more scoping before delivery. The fastest path to alignment is a working instance.
+> The fastest path to alignment is no longer more scoping before delivery. The fastest path to alignment is a working instance.
 
 This is the second article in a two-part series:
 
