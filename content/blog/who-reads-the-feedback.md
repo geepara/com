@@ -1,18 +1,18 @@
 +++
 title = "Who Reads The Feedback"
 date = "2026-10-22"
-description = "If it's more worth it to teach the agent than the person, is it worth teaching people anything at all?"
+description = "When the agent learns everything once, people have no reason to learn anything at all."
 tags = ["ai", "learning", "work"]
 +++
 
-Feedback is a way of teaching. When someone corrects your work, the goal is that you do it better next time. That only makes sense if you are the one doing the work next time.
+Feedback used to be how people got better at their jobs. Someone more experienced corrected your work, you understood why, and you did it better the next time.
 
-AI is starting to break that. More and more, a person directs the work and an agent does it. When you give that person feedback, they hand it to the agent. The agent makes the fix, the person approves it, and the person learns nothing from it.
+That is changing. When an agent does the work, the feedback goes to the agent. In software this already happens every day. An engineer leaves comments on a pull request, the author points a coding agent at them, and the agent makes the fixes. The author never reads the comments.
 
-Software engineering is where this is happening first. When I give feedback on frontend work, the author usually doesn't read my comments. They point their coding agent at the pull request, the agent addresses the comments, and the change gets merged. The next week the same mistake shows up again in someone else's pull request.
+The obvious response is to teach the agent directly, and people are already doing it. Teams are building software factories, where agents write the code and the people around them improve the instructions the agents follow. Ramp's motto for Ramp Glass is "learn everything once." Once a lesson is written into an agent's skills, nobody has to learn it again.
 
-So I've started spending that time on agent skills instead, which are written instructions the agent reads before it starts working. A comment on a pull request fixes one change. A rule in a skill applies to every change after it, no matter who the author is. Teaching the agent is simply worth more than teaching the person.
+That works, and it will spread to every industry where agents do the work. But it creates a bigger problem. If the agent learns everything once, a person has no reason to learn it at all.
 
-Software is only the first case. As agents take over the work in other fields, the same thing will happen to a lawyer marking up a contract or a manager editing a financial model. Their notes will go to an agent, and the person they meant to teach won't read them.
+Learning used to pay off. You struggled to understand something, then you could do it yourself, and that made you more valuable. If the agent can already do it, the struggle buys you nothing, so there is no incentive to learn. Work gets less fun, because figuring things out was a big part of what made it satisfying. Learning also gets harder, because the work that used to teach you is now done by the agent.
 
-If it's more worth it to teach the agent, is it worth teaching people anything at all?
+It also changes what a person is worth to an organization. If agents do the work, a person is useful only as far as they can improve the agents' skills. Every time they teach the agent something they know, the organization needs them a little less. Once they've deposited all of their knowledge, the only thing left for them to do is direct the work. They might not even be needed for that.
