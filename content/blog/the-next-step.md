@@ -1,7 +1,7 @@
 +++
 title = "The Next Step"
 date = "2026-10-21"
-description = "If you know where you stand and you know where you're headed, you don't need the whole path. All you have to see is the next step."
+description = "If you know where you stand and you know where you're headed, you can skip mapping the whole path. All you have to see is the next step."
 tags = ["life", "path"]
 +++
 
@@ -14,20 +14,20 @@ tags = ["life", "path"]
 
 <br>
 
-Most people think getting somewhere in life requires a plan. You figure out where you want to end up, map every step between here and there, and then follow the map.
+A lot of us treat getting somewhere in life as a planning problem. You pick a destination and write out the steps it will take to get there, and then you follow the map.
 
-But the map is almost always wrong. Not because you planned badly, but because the future can't be planned in that much detail. You learn things along the way. Circumstances change. You change. By the time you reach step ten, the step ten you wrote down at the beginning usually doesn't make sense anymore.
+The map is wrong most of the time. You can't plan the future in that much detail, and along the way you learn things you couldn't have known at the start. Your situation changes and so do you. Once you reach step ten, the version of step ten you wrote down on day one tends not to fit.
 
-There's a simpler way to move through life. It starts with knowing where you stand. Be honest about where you are right now: what you have, what you don't, what you're good at, and what you're not. You can't take a step forward if you don't know where your feet are.
+You can move through life a simpler way, and it starts with knowing where you stand. You can't take a step forward without knowing where your feet are, so be honest with yourself about where you are today: what you have and what you lack, what you're good at and what you aren't.
 
-Then you need to know where you're headed. This is the part that requires faith. Not a detailed plan, just a clear sense of where you're going to end up, a destination you actually believe in. If you have full faith in where you're headed, you don't need to know exactly how you'll get there.
+The second thing you need is a sense of where you're headed, and this part takes faith. You need a clear picture of where you'll end up, a destination you believe in, and you can leave the route open. With full faith in where you're headed, you can set out without knowing how you'll get there.
 
-The space between where you stand and where you're headed is the part nobody can see clearly. And that's fine. Trying to map all of it is how people get stuck. They spend so much time planning the path that they never start walking it.
+You can't see the stretch between where you stand and where you're headed in any detail. If you try to map all of it, you can spend so long planning the path that you put off walking it.
 
-All you have to see is the next step. At any moment, there is one thing you can do that gets you a little closer to where you're headed. Not the perfect move. Not the fastest route. Just the next incremental step. Figure out what it is, and complete it. Then do it again.
+All you have to see is the next step. At any point there's one thing you can do that gets you a little closer to where you're headed. It can be a small step, and it doesn't need to be the perfect move or the fastest route. Figure out what it is and finish it, and after that look for the one after it.
 
-One step doesn't look like much. But each one puts you somewhere new, with more information than you had before, and the next step becomes clearer than it could ever have been from the start. Over time, the steps stack up behind you. Look back and you'll see a path, one that probably winds and doubles back and looks nothing like the line you would have drawn on day one. But it got you there.
+One step doesn't look like much. Each one puts you somewhere new with more information than you had before, and from there you can see the next step better than you could have on day one. Over time the steps stack up behind you. Look back after a while and you'll see a path that winds and doubles back and looks nothing like the line you would have drawn at the start, and you'll be standing where you meant to go.
 
-If you know where you stand and you know where you're headed, you don't need to have it all figured out. You arrive one step at a time.
+If you know where you stand and you know where you're headed, you can arrive one step at a time without having it all figured out.
 
-That's the whole idea behind [path](https://path.geepara.com). A beginning, an end, and the one step you're taking right now.
+I built [path](https://path.geepara.com) around this idea. You set a start and an end, and you keep your eyes on the one step in front of you.
