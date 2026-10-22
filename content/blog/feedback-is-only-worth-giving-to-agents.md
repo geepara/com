@@ -1,7 +1,7 @@
 +++
-title = "Who Reads The Feedback"
+title = "Feedback Is Only Worth Giving To Agents"
 date = "2026-10-22"
-description = "When the agent learns everything once, people have no reason to learn anything at all."
+description = "When the agent learns everything once, feedback is only worth giving to agents, and people have no reason to learn anything at all."
 tags = ["ai", "learning", "work"]
 +++
 
